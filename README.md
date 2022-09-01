@@ -29,18 +29,19 @@ The purpose of the analysis was to determine the feasibility of operating an ice
 a sampling of weather from the traditional months of Summer (June) and Winter (December). 
 
 ## Results:
+_____________________________________________________________________
 The following observations between the months, should provide information to support W. Avy's decision:
 + The data sets contained large amounts of observations, requiring automated analysis. 
 + The temperatures do not vary between the months leading to a possible conclusion that the temperatures are constant year-round
 + The temperature variance was more noticable in December
 + Average temperatures did not vary as much as expected 
 
-The following images provide supporting data of the variances between the two months.
+### The following images provide supporting data of the variances between the two months.
 
 ![June Temps](https://github.com/JBtallgrass/surfs_up/blob/main/JUN_Temps.png) 
 ![December Temps](https://github.com/JBtallgrass/surfs_up/blob/main/DEC_Temps.png) 
 
 
-Summary:
-
+# Summary:
+Supporting analysis provides the illumination of the weather data that might affect the business opportunities on the island of Oahu.
 
