@@ -7,8 +7,10 @@ The following information contians data from observations for the months of June
 
 ### June Statistical analysis
 ![June descriptional data](https://github.com/JBtallgrass/surfs_up/blob/main/JUN_Desc.png)  
-After collecting data for 30 observations the following data registered for the month of June:
-
+After collecting data for 30 observations the following data registered for the month of June
+The average temperture for Jun is 75 degrees with a maximum reading of 85 degrees and a low of 64
+# _____________________________________________________________________________________
+### December Statistical analysis
 ![December descriptional data](https://github.com/JBtallgrass/surfs_up/blob/main/DEC_Desc.png) 
 
 
