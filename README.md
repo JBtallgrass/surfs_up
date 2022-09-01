@@ -7,7 +7,7 @@ The following information contians data from observations for the months of June
 
 ### June Statistical analysis
   After collecting data for 30 observations the following data registered for the month of June:
-![June Statistical descriptions] (
+![June Statistical descriptions] (JUN_Desc.png)
 
 
 
