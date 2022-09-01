@@ -6,7 +6,7 @@ ________________________________________________________________________________
 The following information contians data from observations for the months of June and December. 
 
 ### June Statistical analysis
-! [June Statistical descriptions] (https://github.com/JBtallgrass/surfs_up/blob/main/JUN_Desc.png)
+!(https://github.com/JBtallgrass/surfs_up/blob/main/JUN_Desc.png)
 
  After collecting data for 30 observations the following data registered for the month of June:
 
